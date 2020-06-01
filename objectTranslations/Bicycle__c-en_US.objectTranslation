@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Bicycle</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Bicycles</value>
+    </caseValues>
+    <fields>
+        <label><!-- Color --></label>
+        <name>Color__c</name>
+        <picklistValues>
+            <masterLabel>Black</masterLabel>
+            <translation><!-- Black --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Blue</masterLabel>
+            <translation><!-- Blue --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Grey</masterLabel>
+            <translation><!-- Grey --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Red</masterLabel>
+            <translation><!-- Red --></translation>
+        </picklistValues>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
